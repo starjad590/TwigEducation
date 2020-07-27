@@ -1,0 +1,10 @@
+C:\Users\jorda\source\repos\TwigEducation\TwigEducation\bin\Release\netcoreapp3.1\TwigEducation.exe
+C:\Users\jorda\source\repos\TwigEducation\TwigEducation\bin\Release\netcoreapp3.1\TwigEducation.deps.json
+C:\Users\jorda\source\repos\TwigEducation\TwigEducation\bin\Release\netcoreapp3.1\TwigEducation.runtimeconfig.json
+C:\Users\jorda\source\repos\TwigEducation\TwigEducation\bin\Release\netcoreapp3.1\TwigEducation.runtimeconfig.dev.json
+C:\Users\jorda\source\repos\TwigEducation\TwigEducation\bin\Release\netcoreapp3.1\TwigEducation.dll
+C:\Users\jorda\source\repos\TwigEducation\TwigEducation\bin\Release\netcoreapp3.1\TwigEducation.pdb
+C:\Users\jorda\source\repos\TwigEducation\TwigEducation\obj\Release\netcoreapp3.1\TwigEducation.AssemblyInfoInputs.cache
+C:\Users\jorda\source\repos\TwigEducation\TwigEducation\obj\Release\netcoreapp3.1\TwigEducation.AssemblyInfo.cs
+C:\Users\jorda\source\repos\TwigEducation\TwigEducation\obj\Release\netcoreapp3.1\TwigEducation.dll
+C:\Users\jorda\source\repos\TwigEducation\TwigEducation\obj\Release\netcoreapp3.1\TwigEducation.pdb
