@@ -19,9 +19,8 @@ namespace TwigEducation
             if (Console.ReadLine().ToUpper() == "Y")
             {
                 Designer.PrintToScreen(arrays);
+                Console.ReadLine();
             }
-
-            Console.ReadLine();
         }
     }
 }
